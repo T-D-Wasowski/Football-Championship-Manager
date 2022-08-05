@@ -1,0 +1,13 @@
+Liverpool,Liverpool
+Newcastle,Newcastle
+Manchester City,Manchester
+Tottenham,Tottenham
+Southampton,Southampton
+Leicester City,Leicester
+Arsenal,Woolwich
+Chelsea,Chelsea
+Manchester United,Manchester
+Everton,Everton
+West Ham,Westlands
+Leeds United,Leeds
+Fullham,Fullham

@@ -1,0 +1,29 @@
+Fullham,Southampton,0,2,07/10/2020
+Liverpool,Chelsea,3,4,28/09/2020
+Tottenham,Chelsea,0,3,29/08/2020
+West Ham,Tottenham,1,3,26/07/2020
+Tottenham,Manchester United,2,5,10/07/2020
+Everton,Newcastle,5,4,14/06/2020
+Manchester City,Arsenal,1,3,05/06/2020
+Tottenham,Liverpool,3,4,19/03/2020
+Fullham,Manchester United,3,0,24/06/2019
+Chelsea,Leicester City,0,2,26/02/2019
+Southampton,Leeds United,3,2,09/02/2019
+Tottenham,West Ham,4,4,02/12/2018
+Liverpool,Manchester City,0,2,27/11/2018
+Everton,Liverpool,0,4,18/09/2018
+Newcastle,Manchester City,5,1,28/05/2018
+Liverpool,Leeds United,4,0,25/05/2018
+Leicester City,Newcastle,0,2,03/04/2018
+Fullham,Manchester City,1,2,22/03/2018
+Newcastle,Tottenham,3,3,04/01/2018
+Manchester United,Leeds United,0,2,17/12/2017
+Liverpool,Arsenal,3,0,04/11/2017
+Newcastle,Everton,3,1,14/10/2017
+Tottenham,Chelsea,3,1,26/07/2017
+Everton,Arsenal,5,4,10/07/2017
+Fullham,West Ham,0,3,19/06/2017
+Liverpool,Manchester United,0,2,19/06/2017
+Fullham,Manchester City,0,1,23/03/2017
+Arsenal,Manchester United,3,0,16/02/2017
+Tottenham,Leicester City,2,4,04/02/2017
